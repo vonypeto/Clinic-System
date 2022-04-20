@@ -1,0 +1,1071 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FInalClinic
+</name>
+</assembly>
+<members>
+<member name="T:FInalClinic.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:FInalClinic.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:FInalClinic.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.AccounTypeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.AdminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.Brand_NDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCAprilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCAugustDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCDecemberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCFebruaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCJanuaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCJulyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCJuneDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCMarchDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCMayDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCNovemberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCOctoberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCSeptemberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmAprilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmAugustDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmDecemberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmFebruaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmJanuaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmJulyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmJuneDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmMarchDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmMayDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmNovemberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmOctoberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmSeptemberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CourseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.Grade_NDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.InventoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.LoghistoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.LoginHistoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McAprilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McAugustDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McDecemberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McFebruaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McJanuaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McJulyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McJuneDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McMarchDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McMayDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McNovemberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McOctoberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McSeptemberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.NoteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.NurseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.prescriptionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.SecBlNDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.Strand_NDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.Table1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.AccounTypeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.AdminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.Brand_NRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCAprilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCAugustRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCDecemberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCFebruaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCJanuaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCJulyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCJuneRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCMarchRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCMayRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCNovemberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCOctoberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCSeptemberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmAprilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmAugustRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmDecemberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmFebruaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmJanuaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmJulyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmJuneRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmMarchRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmMayRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmNovemberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmOctoberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmSeptemberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CourseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.Grade_NRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.InventoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.LoghistoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.LoginHistoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McAprilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McAugustRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McDecemberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McFebruaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McJanuaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McJulyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McJuneRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McMarchRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McMayRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McNovemberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McOctoberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McSeptemberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.NoteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.NurseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.prescriptionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.SecBlNRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.Strand_NRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.Table1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.AccounTypeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.AdminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.Brand_NRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCAprilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCAugustRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCDecemberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCFebruaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCJanuaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCJulyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCJuneRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCMarchRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCMayRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCNovemberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCOctoberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CCSeptemberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmAprilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmAugustRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmDecemberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmFebruaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmJanuaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmJulyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmJuneRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmMarchRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmMayRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmNovemberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmOctoberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CmSeptemberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.CourseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.Grade_NRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.InventoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.LoghistoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.LoginHistoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McAprilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McAugustRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McDecemberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McFebruaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McJanuaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McJulyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McJuneRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McMarchRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McMayRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McNovemberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McOctoberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.McSeptemberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.NoteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.NurseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.prescriptionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.SecBlNRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.Strand_NRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSet.Table1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.AccounTypeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.AdminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.Brand_NTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CCAprilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CCAugustTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CCDecemberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CCFebruaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CCJanuaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CCJulyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CCJuneTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CCMarchTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CCMayTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CCNovemberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CCOctoberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CCSeptemberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CmAprilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CmAugustTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CmDecemberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CmFebruaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CmJanuaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CmJulyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CmJuneTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CmMarchTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CmMayTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CmNovemberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CmOctoberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CmSeptemberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.CourseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.Grade_NTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.InventoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.LoghistoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.LoginHistoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.McAprilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.McAugustTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.McDecemberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.McFebruaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.McJanuaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.McJulyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.McJuneTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.McMarchTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.McMayTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.McNovemberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.McOctoberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.McSeptemberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.NoteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.NurseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.prescriptionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.SecBlNTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.Strand_NTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.Table1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FInalClinic.TCCDatabaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(FInalClinic.TCCDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FInalClinic.TCCDatabaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(FInalClinic.TCCDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FInalClinic.TCCDatabaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(FInalClinic.TCCDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FInalClinic.TCCDatabaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FInalClinic.TCCDatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll(FInalClinic.TCCDatabaseDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FInalClinic.TCCDatabaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

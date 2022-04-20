@@ -1,0 +1,471 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Library
+</name>
+</assembly>
+<members>
+<member name="T:Library.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Library.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Library.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.AccounttypesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.AdminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.ArticleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.AuthorsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Book_dateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Book_IncrementDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Book1BDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Book2BDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.BookelemDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.BookJHSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.BookSHSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.CodesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet._Course_deptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.gradeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.SectDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.ServersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.StudentAccDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.TeacherBookDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Trans_IncreDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.TransactionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.AccounttypesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.AdminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.ArticleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.AuthorsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Book_dateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Book_IncrementRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Book1BRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Book2BRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.BookelemRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.BookJHSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.BookSHSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.CodesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet._Course_deptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.gradeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.SectRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.ServersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.StudentAccRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.TeacherBookRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Trans_IncreRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.TransactionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.AccounttypesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.AdminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.ArticleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.AuthorsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Book_dateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Book_IncrementRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Book1BRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Book2BRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.BookelemRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.BookJHSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.BookSHSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.CodesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet._Course_deptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.gradeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.SectRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.ServersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.StudentAccRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.TeacherBookRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.Trans_IncreRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSet.TransactionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.AccounttypesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.AdminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.ArticleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.AuthorsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.Book_dateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.Book_IncrementTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.Book1BTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.Book2BTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.BookelemTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.BookJHSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.BookSHSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.CodesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.Course_deptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.gradeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.SectTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.ServersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.StudentAccTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.TeacherBookTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.Trans_IncreTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.TransactionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Library.TCCLibraryDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Library.TCCLibraryDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Library.TCCLibraryDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Library.TCCLibraryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Library.TCCLibraryDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Library.TCCLibraryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Library.TCCLibraryDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Library.TCCLibraryDataSetTableAdapters.TableAdapterManager.UpdateAll(Library.TCCLibraryDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Library.TCCLibraryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
